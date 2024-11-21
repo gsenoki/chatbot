@@ -14,7 +14,7 @@ from sentence_transformers import SentenceTransformer, util
 api_key = os.getenv("GROQ_API_KEY")
 
 # read the text file normas unicamp
-url = https://drive.google.com/file/d/1LxIK5YBypuW3qKyrIYae2oXg6XV4Jd4O/view?usp=sharing
+url = 'https://drive.google.com/file/d/1LxIK5YBypuW3qKyrIYae2oXg6XV4Jd4O/view?usp=sharing'
 response = requests.get(url)
 content = response.text
 #with open("normas_unicamp_noLines.txt", "r", encoding="utf-8") as file:
