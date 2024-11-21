@@ -17,7 +17,8 @@ groq_api_key = st.sidebar.text_input("GROQ API Key", type="password")
 
 os.environ["GROQ_API_KEY"] = groq_api_key
 
-url = 'https://drive.google.com/file/d/1LxIK5YBypuW3qKyrIYae2oXg6XV4Jd4O/view?usp=sharing'
+file_id = "1LxIK5YBypuW3qKyrIYae2oXg6XV4Jd4O"
+url = f"https://drive.google.com/uc?export=download&id={file_id}"
 response = requests.get(url)
 content = response.text
 
