@@ -1,0 +1,226 @@
+query,response,expected,similarity
+Quantas vagas regulares são oferecidas para o Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, de 10/07/2024, são oferecidas 2537 vagas regulares para ingresso nos Cursos de Graduação da Unicamp pelo Vestibular Unicamp (VU) 2025.",São oferecidas 3340 vagas regulares para o Vestibular Unicamp 2025.,0.842505156993866
+Quantas vagas são destinadas ao sistema de cotas étnico-raciais?,"A resolução não especifica explicitamente a quantidade de vagas destinadas ao sistema de cotas étnico-raciais. No entanto, é mencionado que a proporção mínima de 15% das vagas regulares em cada curso deve ser destinada a candidatos(as) autodeclarados(as) pretos(as) e pardos(as). Além disso, é mencionado que, se houver candidatos(as) de 1ª opção que atendam aos critérios de Nota Mínima de Opção (NMO) do respectivo curso, até 27,2% das vagas podem ser destinadas a candidatos(as) autodeclarados(as) pretos(as) e pardos(as).","14,2% das vagas são destinadas a pretos e pardos, enquanto outras porcentagens são especificadas para diferentes cursos.",0.7421056628227234
+Quando será realizada a primeira fase do Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, a primeira fase do Vestibular Unicamp 2025 será realizada no dia 20 de outubro de 2024.",A primeira fase será realizada no dia 20 de outubro de 2024.,0.7892264127731323
+Qual é o período de inscrição para o Vestibular Unicamp 2025?,"De acordo com o Capítulo IV - Inscrição da Resolução GR-029/2024, o período de inscrição para o Vestibular Unicamp 2025 será de 01 a 30 de agosto de 2024.",O período de inscrição é de 01 a 30 de agosto de 2024.,0.7619497776031494
+Qual o valor da taxa de inscrição para o Vestibular Unicamp 2025?,"De acordo com o Capítulo IV - Inscrição da Resolução GR-029/2024, de 10/07/2024, o valor da Taxa de Inscrição para o Vestibular Unicamp 2025 não está explicitamente mencionado. No entanto, é estabelecido que os candidatos que não forem isentos da Taxa de Inscrição devem recolher o valor da Taxa de Inscrição por meio de boleto bancário emitido ao final do preenchimento do Formulário de Inscrição.","A taxa de inscrição é de R$ 210,00.",0.4379746615886688
+Quais candidatos têm direito à isenção da taxa de inscrição?,"De acordo com o Artigo 13 da Deliberação CONSU-A-032/2017, os candidatos que têm direito à isenção da taxa de inscrição são os que apresentam os seguintes documentos:
+
+* Diploma ou Certificado de Conclusão do ensino médio ou equivalente (para os candidatos brasileiros);
+* Certificado de Conclusão do ensino médio ou equivalente (para os candidatos estrangeiros);
+
+Esses candidatos são dispensados do recolhimento da Taxa de Inscrição.",Candidatos oriundos de escolas públicas ou pertencentes a famílias de baixa renda podem solicitar isenção.,0.6411280632019043
+Quais documentos são necessários para solicitar a isenção da taxa de inscrição?,"De acordo com o texto, não há informações específicas sobre quais documentos são necessários para solicitar a isenção da taxa de inscrição. O Art. 4º menciona que a lista dos candidatos beneficiados pela redução parcial da taxa de 50% será disponibilizada na página da Comvest, mas não especifica quais documentos são necessários para solicitar essa redução.","Comprovante de renda familiar, histórico escolar e documentos pessoais são necessários.",0.2954643964767456
+Quantas fases compõem o Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, o Vestibular Unicamp 2025 compõe-se de 2 fases:
+
+1ª fase: Será realizada no dia 20 de outubro de 2024, e consistirá em uma única prova de Conhecimentos Gerais composta por 72 questões objetivas.
+
+2ª fase: Será realizada nos dias 01 e 02 de dezembro de 2024.
+
+Além disso, há também provas de Habilidades Específicas para os cursos de Música, que serão realizadas de forma virtual antes da 1ª fase, e para os outros cursos, que serão realizadas de 11 a 13 de dezembro de 2024.",O Vestibular Unicamp 2025 é composto por duas fases.,0.7436563372612
+Quando será a segunda fase do Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, a 2ª fase do Vestibular Unicamp 2025 será realizada nos dias 01 e 02 de dezembro de 2024.",A segunda fase será realizada nos dias 10 e 11 de dezembro de 2024.,0.7944075465202332
+Quais disciplinas serão cobradas na primeira fase?,"Segundo o texto, na primeira fase da prova, as disciplinas que serão cobradas são:
+
+* Matemática (12 questões)
+* Língua Portuguesa e Literaturas de Língua Portuguesa (12 questões)
+* Inglês (7 questões)
+* Ciências da Natureza (Biologia, Química e Física) (21 questões)
+* Ciências Humanas (História, Geografia, Filosofia e Sociologia) (20 questões)","A primeira fase incluirá questões de Matemática, Português, Ciências Naturais, Ciências Humanas e Inglês.",0.8618308901786804
+Quantas questões serão aplicadas na primeira fase?,"Segundo o texto, na primeira fase, haverá 72 questões objetivas que avaliam as disciplinas distribuídas da seguinte forma:
+
+* 12 questões de Matemática
+* 12 questões de Língua Portuguesa e Literaturas de Língua Portuguesa
+* 7 questões de Inglês
+* 21 questões de Ciências da Natureza (Biologia, Química e Física)
+* 20 questões de Ciências Humanas (História, Geografia, Filosofia e Sociologia)
+
+Em total, 72 questões.",A primeira fase terá 72 questões de múltipla escolha.,0.677842378616333
+Quais disciplinas serão cobradas na segunda fase?,"Na segunda fase, composta por questões dissertativas, os(as) candidatos(as) serão avaliados(as) em:
+
+* Redação (prova na qual eles(as) devem elaborar um texto, a partir de duas propostas de escrita)
+* Língua Portuguesa e Literaturas de Língua Portuguesa
+* Matemática
+* Ciências da Natureza (Biologia, Química e Física)
+* Ciências Humanas (História, Geografia, Filosofia e Sociologia)
+
+Além disso, os(as) candidatos(as) que optaram por cursos específicos também serão avaliados(as) em provas específicas para essas áreas de conhecimento.
+
+* Candidatos(as) da área de Ciências Biológicas/Saúde: prova de Biologia e prova de Química
+* Candidatos(as) da área de Ciências Exatas/Tecnológicas: prova de Física e prova de Química
+* Candidatos(as) da área de Ciências Humanas/Artes: prova de Geografia, prova de História, prova de Filosofia e prova de Sociologia",A segunda fase terá redação e provas dissertativas de disciplinas específicas.,0.6963293552398682
+Quando será divulgado o resultado da primeira fase?,"De acordo com a informação fornecida, não há uma data específica mencionada para a divulgação do resultado da primeira fase. No entanto, é importante lembrar que a primeira fase do VU 2025 será realizada no dia 20 de outubro de 2024, e a segunda fase será realizada nos dias 01 e 02 de dezembro de 2024.",O resultado da primeira fase será divulgado no dia 03 de novembro de 2024.,0.7432724237442017
+Qual a data de matrícula para os aprovados no Vestibular Unicamp 2025?,"A data de matrícula para os aprovados no Vestibular Unicamp 2025 não está especificada no texto. No entanto, é possível consultar o Manual do Ingresso, disponível na página da Comvest (www.comvest.unicamp.br), que deve fornecer essa informação. Além disso, é recomendável verificar a página da Comvest ou a Unicamp após a divulgação dos resultados do vestibular para obter informações sobre a data e os procedimentos para a matrícula.","A matrícula ocorrerá no início de 2025, com datas específicas a serem divulgadas.",0.5659888386726379
+Quais são os requisitos para participar do Programa de Ação Afirmativa e Inclusão Social (PAAIS)?,"Para participar do Programa de Ação Afirmativa e Inclusão Social (PAAIS), os candidatos devem atender aos seguintes requisitos:
+
+* Ter concluído integralmente o Ensino Médio ou equivalente em escola pública brasileira;
+* Possuir Histórico Escolar Completo do Ensino Médio realizado integral e exclusivamente em estabelecimentos da rede pública brasileira (federal, estadual, municipal);
+* Ser autodeclarado(a) pret(a) ou pard(a) e optar pela reserva de vagas (cotas) destinadas a esses grupos étnicos;
+* Possuir traços fenotípicos que o caracterizem como negro(a), de cor preta ou parda.
+
+Além disso, os candidatos que optarem pela reserva de vagas (cotas) devem preencher o campo específico de autodeclaração no formulário de inscrição.",Os candidatos devem ter cursado integralmente o Ensino Médio ou Ensino Fundamental II em escolas públicas brasileiras.,0.6511052250862122
+Quais são os benefícios do Programa PAAIS?,"Segundo o texto, os benefícios do Programa de Acesso não Concursado (PAAIS) são:
+
+* Obrigação de contratação do candidato que obtiver a nota mínima necessária para a opção escolhida;
+* Aumento de 500 pontos na nota final da 1ª fase para os candidatos que declararam ter cursado integralmente o Ensino Fundamental II ou o Ensino Médio em escola pública brasileira;
+* Aumento de 500 pontos na nota final da 1ª fase para os candidatos que declararam ter cursado integralmente o Ensino Fundamental II e o Ensino Médio em escola pública brasileira.
+
+Além disso, o PAAIS também concede benefícios específicos para os candidatos que optam pelo PAAIS com uso de exames de certificação.",O PAAIS concede bônus na pontuação para candidatos oriundos de escolas públicas e pretos/pardos.,0.6680514216423035
+Quantas vagas são reservadas para o curso de Medicina em ampla concorrência?,"Segundo o texto, o curso de Medicina (Integral) tem 40 vagas regulares e uma ampla concorrência entre 56 e 69 vagas.",São reservadas 60 vagas para ampla concorrência no curso de Medicina.,0.749203622341156
+Quais são os critérios para análise na prova de redação?,"A prova de redação é composta por duas propostas de textos para que o candidato escolha e execute apenas uma proposta. Não há um critério específico para análise na prova de redação, mas, baseado no texto, posso dizer que a avaliação se refere à capacidade do candidato de:
+
+* Resolver problemas propostos
+* Relatar procedimentos utilizados
+* Estabelecer e explicitar relações entre informações, conceitos, fenômenos, contextos, problemas e pontos de vista a partir de evidências logicamente construídas
+* Explicar conceitos, fenômenos, contextos e problemas
+* Indicar as evidências nas quais se baseou para produzir as respostas solicitadas
+* Produzir textos curtos a partir de recursos como paráfrases e sínteses para responder o que indica o enunciado
+* Argumentar em defesa de uma tese ou de um ponto de vista, de forma consistente com os insumos apresentados na prova e com os conhecimentos de cada área.
+
+Além disso, a avaliação também considera a capacidade do candidato de elaborar um texto coeso e claro, observando a precisão de conceitos e conhecimentos mobilizados ou aplicados a partir das instruções oferecidas no enunciado.","A redação será avaliada com base em coerência, coesão, gramática e atendimento à proposta.",0.6068727970123291
+Quais cursos possuem reserva de vagas para indígenas?,"Conforme o anexo II da Resolução GR-029/2024, os cursos que possuem reserva de vagas para indígenas são os seguintes:
+
+* Curso: Engenharia Ambiental (Noturno), Total Vagas Regulares: 60, Total Vagas VU: 44, Ampla Concorrência Mínimo: 28, Ampla Concorrência Máximo: 35, Reserva de Vagas para PP 15%*: 9, Reserva de Vagas para PP 27,2%*: 16
+* Curso: Engenharia Civil (Integral), Total Vagas Regulares: 80, Total Vagas VU: 62, Ampla Concorrência Mínimo: 40, Ampla Concorrência Máximo: 50, Reserva de Vagas para PP 15%*: 12, Reserva de Vagas para PP 27,2%*: 22
+* Curso: Engenharia de Alimentos (Integral), Total Vagas Regulares: 80, Total Vagas VU: 60, Ampla Concorrência Mínimo: 38, Ampla Concorrência Máximo: 48, Reserva de Vagas para PP 15%*: 12, Reserva de Vagas para PP 27,2%*: 22
+* Curso: Engenharia de Alimentos (Noturno), Total Vagas Regulares: 35, Total Vagas VU: 24, Ampla Concorrência Mínimo: 14, Ampla Concorrência Máximo: 19, Reserva de Vagas para PP 15%*: 5, Reserva de Vagas para PP 27,2%*: 10
+* Curso: Engenharia de Computação (Integral), Total Vagas Regulares: 90, Total Vagas VU: 63, Ampla Concorrência Mínimo: 39, Ampla Concorrência Máximo: 49, Reserva de Vagas para PP 15%*: 14, Reserva de Vagas para PP 27,2%*: 24
+
+Esses cursos possuem uma reserva de vagas para indígenas, que são 15% e 27,2% das vagas regulares, respectivamente.",Diversos cursos possuem reserva de vagas específicas para indígenas.,0.8035680651664734
+Qual é a duração da prova da primeira fase?,"Segundo o texto, a duração da prova da primeira fase (ou seja, a prova de Habilidades Específicas) é de 4 horas e meia (ou 2 horas e meia para cada turma).",A prova da primeira fase terá duração de 5 horas.,0.6117570996284485
+Quais documentos são necessários para a matrícula no Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, de 10/07/2024, que dispõe sobre o Vestibular Unicamp 2025 para vagas no ensino de Graduação, os seguintes documentos são necessários para a matrícula:
+
+* Formulário de Inscrição preenchido na página da Comvest (www.comvest.unicamp.br);
+* Recolhimento do valor da Taxa de Inscrição por meio de boleto bancário emitido ao final do preenchimento do Formulário de Inscrição;
+* Documento de identificação com fotografia, podendo ser:
+	+ Cédula de identidade (RG);
+	+ Passaporte;
+	+ Carteira de Registro Nacional Migratório;
+	+ Carteira expedida por Ordens ou Conselhos reconhecidos por lei ou Carteira Nacional de Habilitação;
+* Número do CPF do(a) candidato(a);
+* Número de um documento de identificação com fotografia, como mencionado acima.
+
+É importante notar que os candidatos(as) que não atenderem ao caput e tenham participado do vestibular terão a matrícula na Unicamp negada ou, se estiverem cursando, a matrícula será cancelada em qualquer momento do curso.","São necessários diploma ou certificado de conclusão do Ensino Médio, foto 3x4 e documentos de identificação.",0.6462884545326233
+Quais cidades realizarão as provas do Vestibular Unicamp 2025?,"Infelizmente, a Resolução GR-029/2024 não especifica as cidades que realizarão as provas do Vestibular Unicamp 2025. É provável que essas informações sejam publicadas posteriormente no Manual do Ingresso, disponível na página da Comvest (www.comvest.unicamp.br), como mencionado no Art. 5º da Resolução.","As provas serão realizadas em diversas cidades do Brasil, incluindo Campinas, São Paulo e outras.",0.38833799958229065
+Quando será divulgada a lista de convocados para a segunda fase?,"A lista de convocados para a segunda fase não está especificada em qualquer um dos artigos mencionados no contexto. No entanto, é possível que a lista seja divulgada após a realização da primeira fase e a aplicação dos critérios de convocação descritos nos artigos 32 e 33.",A lista de convocados para a segunda fase será divulgada no dia 03 de novembro de 2024.,0.6539628505706787
+Quais cursos oferecem vagas em período noturno?,"Baseado nos dados fornecidos, os cursos que oferecem vagas em período noturno são:
+
+1. Administração (Noturno)
+2. Ciência da Computação (Noturno)
+3. Ciências Biológicas - Licenciatura (Noturno)
+4. Ciências Econômicas (Noturno)
+5. Ciências Sociais (Noturno)
+6. Engenharia Ambiental (Noturno)
+7. Engenharia de Alimentos (Noturno)
+8. Engenharia de Controle e Automação (Noturno)
+9. Física - Licenciatura (Noturno)
+10. Geografia (Noturno)
+11. Geologia (Integral) - Obs: embora seja um curso integral, pode ter vagas disponíveis para estudantes que desejam realizar o curso noturno.
+12. Letras - Licenciatura (Noturno)
+13. Licenciatura Integrada Química/Física (Noturno)
+14. Matemática - Licenciatura (Noturno)
+15. Química Tecnológica (Noturno)
+16. Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno)
+17. Tecnologia em Saneamento Ambiental (Noturno)
+
+É importante notar que a disponibilidade de vagas em período noturno pode variar de um semestre para outro e de um ano para outro, então é recomendável verificar com a instituição de ensino para confirmar a disponibilidade de vagas em período noturno para o curso escolhido.",Cursos como Administração e Pedagogia possuem vagas no período noturno.,0.8389713764190674
+Quais os critérios para atribuição de bônus no PAAIS?,"Baseado no texto fornecido, não há menção explícita sobre a atribuição de bônus no PAAIS. O texto apenas apresenta a fórmula para cálculo da Nota Padronizada de Opção (NPO) e a estrutura do Vestibular Unicamp. Não há informações sobre bônus ou outros critérios específicos para a atribuição de bônus no PAAIS.",O bônus é baseado na escola de origem (pública) e na autodeclaração como preto ou pardo.,0.27853330969810486
+Qual é o formato das questões na primeira fase?,"De acordo com o texto, a prova da primeira fase é composta por 72 questões objetivas que avaliam as disciplinas distribuídas da seguinte forma:
+
+* 12 questões de Matemática
+* 12 questões de Língua Portuguesa e Literaturas de Língua Portuguesa
+* 7 questões de Inglês
+* 21 questões de Ciências da Natureza (Biologia, Química e Física)
+* 20 questões de Ciências Humanas (História, Geografia, Filosofia e Sociologia)
+
+Portanto, o formato das questões na primeira fase é objetivo, com 72 questões em total.",As questões são de múltipla escolha com cinco alternativas.,0.42786064743995667
+Quantas vagas totais são oferecidas no Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, de 10/07/2024, o Vestibular Unicamp 2025 oferece 3340 vagas regulares distribuídas nos seguintes sistemas de ingresso:
+
+* 2537 vagas oferecidas pelo Vestibular Unicamp (VU) 2025;
+* 314 vagas oferecidas pelo Edital ENEM-Unicamp 2025;
+* 325 vagas oferecidas pelo Provão Paulista 2025;
+* 49 vagas oferecidas pelo Vestibular Indígena (VI) 2025;
+* 115 vagas oferecidas pelo Edital de olimpíadas científicas e competições de conhecimento de áreas específicas.
+
+Além disso, há 97 vagas adicionais indicadas nos incisos IV e V, que terão preenchimento facultativo e não serão transferidas para o VU 2025.",São oferecidas 3340 vagas no total.,0.6363263726234436
+Quais são os critérios de desempate no Vestibular Unicamp 2025?,"Não encontrei informações específicas sobre os critérios de desempate no Vestibular Unicamp 2025. No entanto, é comum que os vestibulares tenham critérios de desempate estabelecidos para casos em que haja empate entre candidatos ou candidatas.
+
+Em geral, os critérios de desempate podem incluir fatores como:
+
+* A nota obtida em uma das provas específicas do vestibular
+* A média geral das notas obtidas nas provas
+* A idade do candidato ou candidata
+* A ordem de inscrição do candidato ou candidata
+* A habilidade em línguas estrangeiras
+* A experiência em áreas específicas
+
+No entanto, é importante consultar a Resolução GR-029/2024, de 10/07/2024, que especifica as regras para o Vestibular Unicamp 2025, para obter informações mais precisas sobre os critérios de desempate aplicados nesse vestibular.",Os critérios de desempate incluem maior pontuação em disciplinas específicas.,0.594153881072998
+Quais modalidades de ingresso estão disponíveis no Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, de 10/07/2024, do Reitor da Universidade Estadual de Campinas, as modalidades de ingresso disponíveis no Vestibular Unicamp 2025 são:
+
+1. Vestibular Unicamp (VU) 2025: oferece 2537 vagas;
+2. Edital ENEM-Unicamp 2025: oferece 314 vagas;
+3. Provão Paulista 2025: oferece 325 vagas;
+4. Vestibular Indígena (VI) 2025: oferece 49 vagas, com 81 vagas adicionais a serem publicadas em edital;
+5. Edital de olimpíadas científicas e competições de conhecimento de áreas específicas: oferece 115 vagas, com 16 vagas adicionais a serem publicadas em edital.
+
+Essas modalidades de ingresso estão distribuídas nos seguintes sistemas de ingresso:
+
+* Vestibular Unicamp (VU) 2025: 2537 vagas
+* Edital ENEM-Unicamp 2025 e Provão Paulista 2025: 639 vagas
+* Vestibular Indígena (VI) 2025: 130 vagas
+* Edital de olimpíadas científicas e competições de conhecimento de áreas específicas: 131 vagas
+
+É importante notar que as vagas regulares não preenchidas nos sistemas de ingresso incisos II, III, IV e V podem ser transferidas para o VU 2025, e as vagas regulares não preenchidas no VU 2025 podem ser disponibilizadas para candidatos inscritos no Edital ENEM-Unicamp e Provão Paulista, nessa ordem.","As modalidades incluem ampla concorrência, cotas e ingresso via Enem.",0.26575642824172974
+O que acontece se o candidato faltar à segunda fase?,"Não há informações específicas sobre isso no texto fornecido. No entanto, é comum que, em casos de falta à segunda fase, o candidato seja considerado como desistente e perca a vaga concorrida. É recomendável verificar a Resolução ou Regulamento da Unicamp ou da Comvest para obter mais informações sobre o que ocorre ao candidato que faltar à segunda fase.",O candidato será eliminado do processo seletivo.,0.46923545002937317
+Quais candidatos podem usar o Enem para ingresso no Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, de 10/07/2024, os candidatos que podem usar o ENEM para ingresso no Vestibular Unicamp 2025 são os que não foram convocados para o Vestibular Unicamp 2025 e ainda possuem vagas disponíveis no Edital ENEM-Unicamp 2025.",Candidatos que tenham prestado o Enem 2024 e se inscreverem na modalidade correspondente.,0.6037346124649048
+Qual o prazo para solicitação de condições especiais para as provas?,"Segundo o §13, o(a) candidato(a) que necessitar de tempo adicional de até 20% do tempo regulamentar em cada dia de realização do exame deve declarar e comprovar, no processo de inscrição, ser pessoa com deficiência ou ter outra condição especial.","O prazo é até o final do período de inscrição, em 30 de agosto de 2024.",0.37260136008262634
+Quais são os locais de inscrição para o Vestibular Unicamp 2025?,"Não há informações sobre os locais de inscrição para o Vestibular Unicamp 2025 no texto fornecido. No entanto, é mencionado que a inscrição deve ser feita exclusivamente mediante preenchimento do Formulário de Inscrição na página da Comvest (www.comvest.unicamp.br).",As inscrições são feitas exclusivamente pelo site oficial do vestibular.,0.4600764513015747
+Quando será publicada a lista de aprovados na segunda fase?,"A Resolução não especifica exatamente quando será publicada a lista de aprovados na segunda fase. Porém, é provável que seja divulgada após a realização das provas da segunda fase, que ocorrem nos dias 01 e 02 de dezembro de 2024. A Comvest (Comissão de Vestibular) é a responsável por realizar as provas e publicar os resultados, portanto, é recomendável verificar a página da Comvest (www.comvest.unicamp.br) para obter informações sobre a data de publicação da lista de aprovados.",A lista será publicada em 15 de janeiro de 2025.,0.4734194874763489
+Quais candidatos têm direito à matrícula parcial?,"De acordo com a Resolução do Conselho Universitário da Unicamp, não há menção explícita à matrícula parcial. Portanto, não é possível fornecer uma resposta precisa.",Candidatos aprovados em primeira chamada e com documentação incompleta.,0.4700112044811249
+Quantos cursos são oferecidos no Vestibular Unicamp 2025?,"Conforme o texto, não há uma lista específica de cursos oferecidos no Vestibular Unicamp 2025. No entanto, é possível identificar os cursos mencionados no texto, que incluem:
+
+* Comunicação Social-Midialogia
+* Engenharia Física/Física/Física Médica e Biomédica/Matemática/Matemática Aplicada e Computacional
+* Dança
+* Educação Física (Integral e Noturno)
+* Enfermagem (Integral)
+* Engenharia Agrícola (Integral)
+* Engenharia Ambiental (Noturno)
+* Engenharia Civil (Integral)
+* Engenharia de Alimentos (Integral e Noturno)
+* Engenharia de Computação (Integral)
+* Engenharia de Controle e Automação (Noturno)
+
+Portanto, ao menos 13 cursos são oferecidos no Vestibular Unicamp 2025. No entanto, é provável que haja outros cursos oferecidos que não estão mencionados no texto.",São oferecidos mais de 70 cursos de graduação.,0.5194219350814819
+O que é necessário para comprovar a autodeclaração de cota racial?,"De acordo com o texto, a autodeclaração de cota racial é validada pela Comissão de Averiguação. A autodeclaração será considerada válida apenas após a avaliação do fenótipo realizada pela Comissão de Averiguação (§3º).",Os candidatos devem passar por uma banca de verificação presencial.,0.3345648944377899
+Quais são os critérios para inclusão social no Vestibular Unicamp 2025?,"De acordo com a Resolução GR-029/2024, de 10/07/2024, o Programa de Ação Afirmação e Inclusão Social (PAAIS) prevê a bonificação para os candidatos(as) que atendam aos seguintes critérios:
+
+1. Autodeclaração de pertencimento a grupos sociais vulneráveis, como:
+	* Autodeclarados pretos(as) e pardos(as) que concorrer às vagas reservadas para esses grupos;
+	* Autodeclarados indígenas;
+	* Autodeclarados com deficiência;
+	* Autodeclarados filhos(as) de trabalhadores(as) rurais;
+	* Autodeclarados filhos(as) de trabalhadores(as) urbanos;
+	* Autodeclarados que sejam membros de comunidades quilombolas ou remanescentes de comunidades quilombolas.
+2. Residência em áreas de baixa renda ou de vulnerabilidade social.
+3. Histórico de desvantagem social, como:
+	* Ser filho(a) de trabalhadora(s) doméstica(s);
+	* Ser filho(a) de trabalhadora(s) temporária(s);
+	* Ser filho(a) de trabalhadora(s) da construção civil;
+	* Ser filho(a) de trabalhadora(s) da agricultura.
+4. Outras situações de vulnerabilidade social, como:
+	* Ser refugiado(a) ou apátrida;
+	* Ser membro de uma família em situação de violência;
+	* Ser membro de uma família em situação de pobreza extrema.
+
+Esses critérios são previstos no artigo 9º e 10 da Resolução GR-029/2024 e são aplicados ao Vestibular Unicamp 2025.","Candidatos de baixa renda, oriundos de escolas públicas e autodeclarados pretos, pardos ou indígenas.",0.5669013261795044
+Quais cursos têm maior número de vagas reservadas para ampla concorrência?,"A partir dos dados fornecidos, é possível identificar os cursos com maior número de vagas reservadas para ampla concorrência (ampla concorrência Máximo).
+
+Os cursos com maior número de vagas reservadas para ampla concorrência são:
+
+1. Curso: Administração (Noturno) - 116 vagas
+2. Curso: Engenharia de Manufatura (Integral) - 82 vagas
+3. Curso: Engenharia de Produção (Integral) - 82 vagas
+4. Curso: Engenharia Mecânica (Integral) - 82 vagas
+5. Curso: Medicina (Integral) - 69 vagas
+
+Esses cursos têm o maior número de vagas reservadas para ampla concorrência, o que significa que eles têm a capacidade de aceitar mais candidatos com pontuações mais baixas.",Cursos como Engenharia e Medicina possuem mais vagas para ampla concorrência.,0.7132159471511841

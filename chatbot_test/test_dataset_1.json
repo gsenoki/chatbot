@@ -1,0 +1,158 @@
+[
+    {
+        "query": "Quantas vagas regulares são oferecidas para o Vestibular Unicamp 2025?",
+        "expected_answer": "São oferecidas 3340 vagas regulares para o Vestibular Unicamp 2025."
+    },
+    {
+        "query": "Quantas vagas são destinadas ao sistema de cotas étnico-raciais?",
+        "expected_answer": "14,2% das vagas são destinadas a pretos e pardos, enquanto outras porcentagens são especificadas para diferentes cursos."
+    },
+    {
+        "query": "Quando será realizada a primeira fase do Vestibular Unicamp 2025?",
+        "expected_answer": "A primeira fase será realizada no dia 20 de outubro de 2024."
+    },
+    {
+        "query": "Qual é o período de inscrição para o Vestibular Unicamp 2025?",
+        "expected_answer": "O período de inscrição é de 01 a 30 de agosto de 2024."
+    },
+    {
+        "query": "Qual o valor da taxa de inscrição para o Vestibular Unicamp 2025?",
+        "expected_answer": "A taxa de inscrição é de R$ 210,00."
+    },
+    {
+        "query": "Quais candidatos têm direito à isenção da taxa de inscrição?",
+        "expected_answer": "Candidatos oriundos de escolas públicas ou pertencentes a famílias de baixa renda podem solicitar isenção."
+    },
+    {
+        "query": "Quais documentos são necessários para solicitar a isenção da taxa de inscrição?",
+        "expected_answer": "Comprovante de renda familiar, histórico escolar e documentos pessoais são necessários."
+    },
+    {
+        "query": "Quantas fases compõem o Vestibular Unicamp 2025?",
+        "expected_answer": "O Vestibular Unicamp 2025 é composto por duas fases."
+    },
+    {
+        "query": "Quando será a segunda fase do Vestibular Unicamp 2025?",
+        "expected_answer": "A segunda fase será realizada nos dias 10 e 11 de dezembro de 2024."
+    },
+    {
+        "query": "Quais disciplinas serão cobradas na primeira fase?",
+        "expected_answer": "A primeira fase incluirá questões de Matemática, Português, Ciências Naturais, Ciências Humanas e Inglês."
+    },
+    {
+        "query": "Quantas questões serão aplicadas na primeira fase?",
+        "expected_answer": "A primeira fase terá 72 questões de múltipla escolha."
+    },
+    {
+        "query": "Quais disciplinas serão cobradas na segunda fase?",
+        "expected_answer": "A segunda fase terá redação e provas dissertativas de disciplinas específicas."
+    },
+    {
+        "query": "Quando será divulgado o resultado da primeira fase?",
+        "expected_answer": "O resultado da primeira fase será divulgado no dia 03 de novembro de 2024."
+    },
+    {
+        "query": "Qual a data de matrícula para os aprovados no Vestibular Unicamp 2025?",
+        "expected_answer": "A matrícula ocorrerá no início de 2025, com datas específicas a serem divulgadas."
+    },
+    {
+        "query": "Quais são os requisitos para participar do Programa de Ação Afirmativa e Inclusão Social (PAAIS)?",
+        "expected_answer": "Os candidatos devem ter cursado integralmente o Ensino Médio ou Ensino Fundamental II em escolas públicas brasileiras."
+    },
+    {
+        "query": "Quais são os benefícios do Programa PAAIS?",
+        "expected_answer": "O PAAIS concede bônus na pontuação para candidatos oriundos de escolas públicas e pretos/pardos."
+    },
+    {
+        "query": "Quantas vagas são reservadas para o curso de Medicina em ampla concorrência?",
+        "expected_answer": "São reservadas 60 vagas para ampla concorrência no curso de Medicina."
+    },
+    {
+        "query": "Quais são os critérios para análise na prova de redação?",
+        "expected_answer": "A redação será avaliada com base em coerência, coesão, gramática e atendimento à proposta."
+    },
+    {
+        "query": "Quais cursos possuem reserva de vagas para indígenas?",
+        "expected_answer": "Diversos cursos possuem reserva de vagas específicas para indígenas."
+    },
+    {
+        "query": "Qual é a duração da prova da primeira fase?",
+        "expected_answer": "A prova da primeira fase terá duração de 5 horas."
+    },
+    {
+        "query": "Quais documentos são necessários para a matrícula no Vestibular Unicamp 2025?",
+        "expected_answer": "São necessários diploma ou certificado de conclusão do Ensino Médio, foto 3x4 e documentos de identificação."
+    },
+    {
+        "query": "Quais cidades realizarão as provas do Vestibular Unicamp 2025?",
+        "expected_answer": "As provas serão realizadas em diversas cidades do Brasil, incluindo Campinas, São Paulo e outras."
+    },
+    {
+        "query": "Quando será divulgada a lista de convocados para a segunda fase?",
+        "expected_answer": "A lista de convocados para a segunda fase será divulgada no dia 03 de novembro de 2024."
+    },
+    {
+        "query": "Quais cursos oferecem vagas em período noturno?",
+        "expected_answer": "Cursos como Administração e Pedagogia possuem vagas no período noturno."
+    },
+    {
+        "query": "Quais os critérios para atribuição de bônus no PAAIS?",
+        "expected_answer": "O bônus é baseado na escola de origem (pública) e na autodeclaração como preto ou pardo."
+    },
+    {
+        "query": "Qual é o formato das questões na primeira fase?",
+        "expected_answer": "As questões são de múltipla escolha com cinco alternativas."
+    },
+    {
+        "query": "Quantas vagas totais são oferecidas no Vestibular Unicamp 2025?",
+        "expected_answer": "São oferecidas 3340 vagas no total."
+    },
+    {
+        "query": "Quais são os critérios de desempate no Vestibular Unicamp 2025?",
+        "expected_answer": "Os critérios de desempate incluem maior pontuação em disciplinas específicas."
+    },
+    {
+        "query": "Quais modalidades de ingresso estão disponíveis no Vestibular Unicamp 2025?",
+        "expected_answer": "As modalidades incluem ampla concorrência, cotas e ingresso via Enem."
+    },
+    {
+        "query": "O que acontece se o candidato faltar à segunda fase?",
+        "expected_answer": "O candidato será eliminado do processo seletivo."
+    },
+    {
+        "query": "Quais candidatos podem usar o Enem para ingresso no Vestibular Unicamp 2025?",
+        "expected_answer": "Candidatos que tenham prestado o Enem 2024 e se inscreverem na modalidade correspondente."
+    },
+    {
+        "query": "Qual o prazo para solicitação de condições especiais para as provas?",
+        "expected_answer": "O prazo é até o final do período de inscrição, em 30 de agosto de 2024."
+    },
+    {
+        "query": "Quais são os locais de inscrição para o Vestibular Unicamp 2025?",
+        "expected_answer": "As inscrições são feitas exclusivamente pelo site oficial do vestibular."
+    },
+    {
+        "query": "Quando será publicada a lista de aprovados na segunda fase?",
+        "expected_answer": "A lista será publicada em 15 de janeiro de 2025."
+    },
+    {
+        "query": "Quais candidatos têm direito à matrícula parcial?",
+        "expected_answer": "Candidatos aprovados em primeira chamada e com documentação incompleta."
+    },
+    {
+        "query": "Quantos cursos são oferecidos no Vestibular Unicamp 2025?",
+        "expected_answer": "São oferecidos mais de 70 cursos de graduação."
+    },
+    {
+        "query": "O que é necessário para comprovar a autodeclaração de cota racial?",
+        "expected_answer": "Os candidatos devem passar por uma banca de verificação presencial."
+    },
+    {
+        "query": "Quais são os critérios para inclusão social no Vestibular Unicamp 2025?",
+        "expected_answer": "Candidatos de baixa renda, oriundos de escolas públicas e autodeclarados pretos, pardos ou indígenas."
+    },
+    {
+        "query": "Quais cursos têm maior número de vagas reservadas para ampla concorrência?",
+        "expected_answer": "Cursos como Engenharia e Medicina possuem mais vagas para ampla concorrência."
+    }
+]

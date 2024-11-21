@@ -1,0 +1,154 @@
+[
+    {
+        "query": "Quantas vagas são oferecidas no curso de Medicina no Vestibular Unicamp 2025?",
+        "expected_answer": "São oferecidas 60 vagas para o curso de Medicina no Vestibular Unicamp 2025."
+    },
+    {
+        "query": "Qual o número de vagas para o curso de Engenharia Elétrica no Vestibular Unicamp 2025?",
+        "expected_answer": "São oferecidas 80 vagas para o curso de Engenharia Elétrica no Vestibular Unicamp 2025."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Direito no Vestibular Unicamp 2025?",
+        "expected_answer": "São oferecidas 100 vagas para o curso de Direito no Vestibular Unicamp 2025."
+    },
+    {
+        "query": "Quantas vagas são destinadas para cotas raciais no curso de Engenharia Mecânica?",
+        "expected_answer": "No curso de Engenharia Mecânica, 15% das vagas são destinadas para cotas raciais."
+    },
+    {
+        "query": "Qual o número de vagas para o curso de Administração no período diurno?",
+        "expected_answer": "São oferecidas 60 vagas para o curso de Administração no período diurno."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Pedagogia no período noturno?",
+        "expected_answer": "São oferecidas 40 vagas para o curso de Pedagogia no período noturno."
+    },
+    {
+        "query": "Quantas vagas são reservadas para candidatos negros no curso de Psicologia?",
+        "expected_answer": "O curso de Psicologia reserva 25% das vagas para candidatos negros."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Biologia no Vestibular Unicamp 2025?",
+        "expected_answer": "São oferecidas 50 vagas para o curso de Biologia no Vestibular Unicamp 2025."
+    },
+    {
+        "query": "Qual o número de vagas no curso de Arquitetura e Urbanismo?",
+        "expected_answer": "São oferecidas 80 vagas no curso de Arquitetura e Urbanismo."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Ciências da Computação no Vestibular Unicamp 2025?",
+        "expected_answer": "São oferecidas 60 vagas para o curso de Ciências da Computação."
+    },
+    {
+        "query": "Qual é o número de vagas para o curso de Medicina Veterinária?",
+        "expected_answer": "São oferecidas 30 vagas para o curso de Medicina Veterinária."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Filosofia?",
+        "expected_answer": "São oferecidas 40 vagas para o curso de Filosofia."
+    },
+    {
+        "query": "Quantas vagas são reservadas para candidatos de escolas públicas no curso de Engenharia de Produção?",
+        "expected_answer": "São reservadas 25% das vagas para candidatos de escolas públicas no curso de Engenharia de Produção."
+    },
+    {
+        "query": "Qual o número de vagas no curso de Química?",
+        "expected_answer": "São oferecidas 50 vagas no curso de Química."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Ciências Sociais?",
+        "expected_answer": "São oferecidas 35 vagas para o curso de Ciências Sociais."
+    },
+    {
+        "query": "Qual é o número de vagas para o curso de História?",
+        "expected_answer": "São oferecidas 40 vagas para o curso de História."
+    },
+    {
+        "query": "Quantas vagas são reservadas para candidatos indígenas no curso de Letras?",
+        "expected_answer": "São reservadas 5% das vagas para candidatos indígenas no curso de Letras."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Física?",
+        "expected_answer": "São oferecidas 40 vagas para o curso de Física."
+    },
+    {
+        "query": "Qual é o número de vagas no curso de Matemática?",
+        "expected_answer": "São oferecidas 45 vagas no curso de Matemática."
+    },
+    {
+        "query": "Qual o número de vagas para o curso de Educação Física?",
+        "expected_answer": "São oferecidas 50 vagas para o curso de Educação Física."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Economia?",
+        "expected_answer": "São oferecidas 70 vagas para o curso de Economia."
+    },
+    {
+        "query": "Qual o número de vagas para o curso de Engenharia de Alimentos?",
+        "expected_answer": "São oferecidas 60 vagas para o curso de Engenharia de Alimentos."
+    },
+    {
+        "query": "Qual o número de vagas oferecidas no curso de Comunicação Social?",
+        "expected_answer": "São oferecidas 50 vagas no curso de Comunicação Social."
+    },
+    {
+        "query": "Quantas vagas são reservadas para mulheres no curso de Engenharia Química?",
+        "expected_answer": "São reservadas 10% das vagas para mulheres no curso de Engenharia Química."
+    },
+    {
+        "query": "Qual o número de vagas no curso de Design?",
+        "expected_answer": "São oferecidas 40 vagas no curso de Design."
+    },
+    {
+        "query": "Quantas vagas são destinadas a candidatos de baixa renda no curso de Ciências Biológicas?",
+        "expected_answer": "São reservadas 15% das vagas para candidatos de baixa renda no curso de Ciências Biológicas."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Jornalismo?",
+        "expected_answer": "São oferecidas 50 vagas para o curso de Jornalismo."
+    },
+    {
+        "query": "Quantas vagas são reservadas para pessoas com deficiência no curso de Filosofia?",
+        "expected_answer": "São reservadas 5% das vagas para pessoas com deficiência no curso de Filosofia."
+    },
+    {
+        "query": "Qual o número de vagas para o curso de Artes Visuais?",
+        "expected_answer": "São oferecidas 40 vagas para o curso de Artes Visuais."
+    },
+    {
+        "query": "Quantas vagas são reservadas para candidatos trans no curso de Psicologia?",
+        "expected_answer": "São reservadas 5% das vagas para candidatos trans no curso de Psicologia."
+    },
+    {
+        "query": "Qual o número de vagas para o curso de Engenharia de Computação?",
+        "expected_answer": "São oferecidas 60 vagas para o curso de Engenharia de Computação."
+    },
+    {
+        "query": "Quantas vagas são oferecidas para o curso de Matemática Computacional?",
+        "expected_answer": "São oferecidas 50 vagas para o curso de Matemática Computacional."
+    },
+    {
+        "query": "Qual é o número de vagas para o curso de Letras (Inglês)?",
+        "expected_answer": "São oferecidas 40 vagas para o curso de Letras (Inglês)."
+    },
+    {
+        "query": "Qual o peso da prova de redação no Vestibular Unicamp 2025?",
+        "expected_answer": "A prova de redação tem peso 2 no Vestibular Unicamp 2025."
+    },
+    {
+        "query": "Qual o peso das provas específicas no Vestibular Unicamp 2025?",
+        "expected_answer": "As provas específicas têm peso 3 para os cursos que exigem essas disciplinas."
+    },
+    {
+        "query": "Qual o peso da prova de Ciências Humanas no Vestibular Unicamp 2025?",
+        "expected_answer": "A prova de Ciências Humanas tem peso 1."
+    },
+    {
+        "query": "Qual o peso da prova de Matemática no Vestibular Unicamp 2025?",
+        "expected_answer": "A prova de Matemática tem peso 2."
+    },
+    {
+        "query": "Qual é o peso da prova de Ciências Naturais no Vestibular Unicamp 2025?",
+        "expected_answer": "A prova de Ciências Naturais tem peso 2."
+    }
+]

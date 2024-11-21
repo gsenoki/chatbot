@@ -1,0 +1,94 @@
+query,response,expected,similarity
+Quantas vagas são oferecidas no curso de Medicina no Vestibular Unicamp 2025?,"De acordo com o documento, o curso de Medicina (Integral) oferece um total de 110 vagas regulares e 86 vagas no Vestibular Unicamp 2025.",São oferecidas 60 vagas para o curso de Medicina no Vestibular Unicamp 2025.,0.8215886950492859
+Qual o número de vagas para o curso de Engenharia Elétrica no Vestibular Unicamp 2025?,"De acordo com a informação fornecida, há dois cursos de Engenharia Elétrica no Vestibular Unicamp 2025:
+
+* Curso de Engenharia Elétrica (Integral): Total Vagas Regulares = 70, Total Vagas VU = 49, Ampla Concorrência Mínimo = 30, Ampla Concorrência Máximo = 38, Reserva de Vagas para PP 15%*: 11, Reserva de Vagas para PP 27,2%*: 19
+* Curso de Engenharia Elétrica (Noturno): Total Vagas Regulares = 30, Total Vagas VU = 21, Ampla Concorrência Mínimo = 13, Ampla Concorrência Máximo = 16, Reserva de Vagas para PP 15%*: 5, Reserva de Vagas para PP 27,2%*: 8
+
+Portanto, o total de vagas para o curso de Engenharia Elétrica no Vestibular Unicamp 2025 é de 70 + 30 = 100 vagas.",São oferecidas 80 vagas para o curso de Engenharia Elétrica no Vestibular Unicamp 2025.,0.7269907593727112
+Quantas vagas são oferecidas para o curso de Direito no Vestibular Unicamp 2025?,"Não há informações sobre o Vestibular Unicamp 2025 oferecendo vagas para o curso de Direito. O documento fornecido contém informações sobre o Vestibular Unicamp 2025 para vagas no ensino de Graduação, mas não menciona o curso de Direito. Além disso, os cursos apresentados na tabela são: Ciências Exatas/Tecnológicas, Ciências Biológicas/Saúde e Ciências Humanas/Artes.",São oferecidas 100 vagas para o curso de Direito no Vestibular Unicamp 2025.,0.6746150255203247
+Quantas vagas são destinadas para cotas raciais no curso de Engenharia Mecânica?,"Infelizmente, a informação providenciada não inclui especificamente a quantidade de vagas destinadas para cotas raciais no curso de Engenharia Mecânica. No entanto, podemos analisar a estrutura de vaga para cotas raciais nos cursos em geral.
+
+No ANEXO II, podemos ver que há uma reserva de vagas para PP 15% e PP 27,2%. Essas reservas são destinadas para cotas raciais, pois são calculadas com base no número total de vagas regulares por curso.
+
+No curso de Engenharia Mecânica (Integral), há uma reserva de 21 vagas para PP 15% e 38 vagas para PP 27,2%. Isso significa que, no total, há 59 vagas destinadas para cotas raciais no curso de Engenharia Mecânica (Integral).
+
+No entanto, é importante notar que essas informações são apenas estatísticas e podem variar dependendo da realidade do curso e da instituição. Além disso, é fundamental verificar as políticas de cotas raciais da instituição e do curso em questão para ter uma visão mais precisa de como funcionam as cotas.","No curso de Engenharia Mecânica, 15% das vagas são destinadas para cotas raciais.",0.740478515625
+Qual o número de vagas para o curso de Administração no período diurno?,Não há informações sobre o curso de Administração no período diurno no texto fornecido. O texto apenas apresenta informações sobre os cursos de Administração Noturna e Administração Pública Noturna.,São oferecidas 60 vagas para o curso de Administração no período diurno.,0.4605507552623749
+Quantas vagas são oferecidas para o curso de Pedagogia no período noturno?,"Infelizmente, não há um curso de Pedagogia no período noturno listado nos dados fornecidos. O que você vê é uma lista de cursos e vagas para várias áreas de conhecimento, mas não há um curso específico de Pedagogia. Se você precisar de mais informações, sugiero verificar o site da Universidade Estadual de Campinas (Unicamp) ou contatar sua coordenação de vestibular para obter mais informações sobre as opções de curso e periodicidade (matutino ou noturno).",São oferecidas 40 vagas para o curso de Pedagogia no período noturno.,0.6076293587684631
+Quantas vagas são reservadas para candidatos negros no curso de Psicologia?,"Peço desculpas, mas os cursos mencionados no anexo II não incluem o curso de Psicologia. Além disso, não há informações sobre a reserva de vagas para candidatos negros em qualquer curso.",O curso de Psicologia reserva 25% das vagas para candidatos negros.,0.5233238935470581
+Quantas vagas são oferecidas para o curso de Biologia no Vestibular Unicamp 2025?,"Não há informações sobre o Vestibular Unicamp 2025 no texto fornecido. O texto apresenta informações sobre cursos e vagas oferecidas em 2024, mas não há informação específica sobre o curso de Biologia no Vestibular Unicamp 2025.",São oferecidas 50 vagas para o curso de Biologia no Vestibular Unicamp 2025.,0.6119669675827026
+Qual o número de vagas no curso de Arquitetura e Urbanismo?,"De acordo com o Anexo II, o curso de Arquitetura e Urbanismo (Noturno) tem um total de 30 vagas regulares.",São oferecidas 80 vagas no curso de Arquitetura e Urbanismo.,0.6648013591766357
+Quantas vagas são oferecidas para o curso de Ciências da Computação no Vestibular Unicamp 2025?,"A pergunta é impossível de ser respondida com base nos dados fornecidos, pois o curso de Ciências da Computação não é mencionado em nenhuma das tabelas ou informações fornecidas.",São oferecidas 60 vagas para o curso de Ciências da Computação.,0.2809608280658722
+Qual é o número de vagas para o curso de Medicina Veterinária?,O número de vagas para o curso de Medicina Veterinária não é fornecido nos dados fornecidos.,São oferecidas 30 vagas para o curso de Medicina Veterinária.,0.5341861844062805
+Quantas vagas são oferecidas para o curso de Filosofia?,"Não há informações sobre o curso de Filosofia no texto fornecido. O texto apresenta informações sobre cursos específicos, como Comunicação Social-Midialogia, Engenharia Física, Fonoaudiologia, Geografia, etc., mas não há referência ao curso de Filosofia.",São oferecidas 40 vagas para o curso de Filosofia.,0.400621235370636
+Quantas vagas são reservadas para candidatos de escolas públicas no curso de Engenharia de Produção?,"De acordo com a tabela fornecida, o curso de Engenharia de Produção (Integral) tem:
+
+* Total Vagas Regulares: 60
+* Total Vagas VU: 45
+* Ampla Concorrência Mínimo: 29
+* Ampla Concorrência Máximo: 36
+* Reserva de Vagas para PP 15%*: 9
+* Reserva de Vagas para PP 27,2%*: 16
+
+Portanto, 9 vagas são reservadas para candidatos de escolas públicas (15% da total de vagas regulares).",São reservadas 25% das vagas para candidatos de escolas públicas no curso de Engenharia de Produção.,0.6083303689956665
+Qual o número de vagas no curso de Química?,"O curso de Química não é mencionado no texto fornecido. No entanto, é possível que você esteja se referindo a um dos cursos de Química Licenciatura (Noturno) ou Licenciatura Integrada Química/Física (Noturno), que têm respectivamente 40 e 30 vagas regulares.",São oferecidas 50 vagas no curso de Química.,0.6114839911460876
+Quantas vagas são oferecidas para o curso de Ciências Sociais?, Não há informações sobre o curso de Ciências Sociais no anexo apresentado.,São oferecidas 35 vagas para o curso de Ciências Sociais.,0.3414808511734009
+Qual é o número de vagas para o curso de História?,"De acordo com o contexto fornecido, o curso de História (Integral) tem 40 vagas regulares e 32 vagas VU (Vagas Universitárias), com ampla concorrência mínima de 21 e máxima de 26. Além disso, há reservas de vagas para os programas de parceria (PP) de 15% e 27,2%.",São oferecidas 40 vagas para o curso de História.,0.6608375906944275
+Quantas vagas são reservadas para candidatos indígenas no curso de Letras?,Não há informações sobre o curso de Letras nem sobre a reserva de vagas para candidatos indígenas nos dados fornecidos.,São reservadas 5% das vagas para candidatos indígenas no curso de Letras.,0.4814482629299164
+Quantas vagas são oferecidas para o curso de Física?,"De acordo com a tabela, o curso de Física - Licenciatura (Noturno) tem 40 vagas regulares e 28 vagas VU (Vagas Universitárias), totalizando 68 vagas.",São oferecidas 40 vagas para o curso de Física.,0.7638415098190308
+Qual é o número de vagas no curso de Matemática?,"A pergunta está mesmo aqui!
+
+De acordo com o texto, o curso de Matemática - Licenciatura (Noturno) tem:
+
+* Total Vagas Regulares: 70
+* Total Vagas VU: 49
+* Ampla Concorrência Mínimo: 30
+* Ampla Concorrência Máximo: 38
+* Reserva de Vagas para PP 15%*: 11
+* Reserva de Vagas para PP 27,2%*: 19
+
+Então, o número de vagas no curso de Matemática é de 70.",São oferecidas 45 vagas no curso de Matemática.,0.5962539315223694
+Qual o número de vagas para o curso de Educação Física?,"O número de vagas para o curso de Educação Física é de 50 vagas regulares e 40 vagas VU (Vagas Universitárias), totalizando 90 vagas.",São oferecidas 50 vagas para o curso de Educação Física.,0.763338565826416
+Quantas vagas são oferecidas para o curso de Economia?,Não há informação sobre o curso de Economia no documento fornecido.,São oferecidas 70 vagas para o curso de Economia.,0.31493136286735535
+Qual o número de vagas para o curso de Engenharia de Alimentos?,O relatório não apresenta informações sobre o curso de Engenharia de Alimentos.,São oferecidas 60 vagas para o curso de Engenharia de Alimentos.,0.24451705813407898
+Qual o número de vagas oferecidas no curso de Comunicação Social?,"A pergunta!
+
+De acordo com o contexto fornecido, não há informações sobre o curso de Comunicação Social. Entretanto, há informações sobre outros cursos, como Comunicação Social-Midialogia (Integral), mas não sobre o curso de Comunicação Social em geral.
+
+Se você pode fornecer mais informações ou especificar qual é o curso de Comunicação Social que você está procurando, eu posso ajudar melhor!",São oferecidas 50 vagas no curso de Comunicação Social.,0.501093327999115
+Quantas vagas são reservadas para mulheres no curso de Engenharia Química?,"Peço desculpas, mas não há informações específicas sobre o curso de Engenharia Química no contexto fornecido. No entanto, posso ajudar a encontrar a informação geral.
+
+A Reserva de Vagas para PP 15% é destinada a pessoas com deficiência (PP) e a Reserva de Vagas para PP 27,2% é destinada a negros e pardos (PP). Ambas reservas são destinadas a garantir a representação dessas categorias em universidades públicas.
+
+Para encontrar as vagas reservadas para mulheres, precisamos analisar as informações fornecidas. No entanto, não há informações específicas sobre o curso de Engenharia Química.
+
+Se você quiser saber a quantidade de vagas reservadas para mulheres em geral, posso ajudar a encontrar a informação geral.",São reservadas 10% das vagas para mulheres no curso de Engenharia Química.,0.5195186734199524
+Qual o número de vagas no curso de Design?,Não há informações sobre o curso de Design no anexo fornecido. É provável que o curso não exista ou não tenha sido mencionado no anexo.,São oferecidas 40 vagas no curso de Design.,0.36417150497436523
+Quantas vagas são destinadas a candidatos de baixa renda no curso de Ciências Biológicas?,"De acordo com o texto, o curso de Ciências Biológicas/Saúde tem reserva de vagas para PP 15% (15 vagas) e PP 27% (41 vagas). Além disso, também há reserva de vagas para LPL (15 vagas).",São reservadas 15% das vagas para candidatos de baixa renda no curso de Ciências Biológicas.,0.7028046250343323
+Quantas vagas são oferecidas para o curso de Jornalismo?,Não há informações sobre o curso de Jornalismo no anexo apresentado.,São oferecidas 50 vagas para o curso de Jornalismo.,0.3094368278980255
+Quantas vagas são reservadas para pessoas com deficiência no curso de Filosofia?,"Não há informação sobre o curso de Filosofia. O texto apresentado não menciona o curso de Filosofia e apenas lista cursos como Artes Visuais, Comunicação Social-Midialogia, Engenharia Ambiental, entre outros. Além disso, não há informações sobre a reserva de vagas para pessoas com deficiência para um curso específico.",São reservadas 5% das vagas para pessoas com deficiência no curso de Filosofia.,0.5465306043624878
+Qual o número de vagas para o curso de Artes Visuais?,"Infelizmente, não há informações sobre o número de vagas para o curso de Artes Visuais no texto fornecido. O texto contém informações sobre os cursos oferecidos pela Unicamp, mas não menciona o curso de Artes Visuais especificamente. Se você tiver mais informações ou um link para o site da Unicamp ou outro documento que contenha informações sobre o curso de Artes Visuais, posso tentar ajudar a encontrar o número de vagas.",São oferecidas 40 vagas para o curso de Artes Visuais.,0.5207181572914124
+Quantas vagas são reservadas para candidatos trans no curso de Psicologia?,"Não há um curso de Psicologia listado nos dados fornecidos. Além disso, não há informações específicas sobre vagas reservadas para candidatos trans no curso. As informações fornecidas mostram apenas a quantidade de vagas reservadas para pretos(as) e pardos(as) em cada curso.",São reservadas 5% das vagas para candidatos trans no curso de Psicologia.,0.5736624002456665
+Qual o número de vagas para o curso de Engenharia de Computação?,"Segundo as informações fornecidas, o número de vagas para o curso de Engenharia de Computação (Integral) é de 90 vagas regulares e 63 vagas VU (Vagas Universitárias).",São oferecidas 60 vagas para o curso de Engenharia de Computação.,0.7227600812911987
+Quantas vagas são oferecidas para o curso de Matemática Computacional?,A pergunta!,São oferecidas 50 vagas para o curso de Matemática Computacional.,0.018797827884554863
+Qual é o número de vagas para o curso de Letras (Inglês)?,"Infelizmente, não há informações sobre um curso de Letras (Inglês) específico no anexo I. No entanto, há um curso de Letras - Licenciatura (Integral) com 30 vagas e um curso de Letras - Licenciatura (Noturno) com 30 vagas.",São oferecidas 40 vagas para o curso de Letras (Inglês).,0.549227774143219
+Qual o peso da prova de redação no Vestibular Unicamp 2025?,"A Resolução GR-029/2024, de 10/07/2024, não menciona a prova de redação como uma das provas do Vestibular Unicamp 2025. Portanto, não é possível determinar o peso da prova de redação nesse caso.",A prova de redação tem peso 2 no Vestibular Unicamp 2025.,0.5925709009170532
+Qual o peso das provas específicas no Vestibular Unicamp 2025?,"A Resolução Vestibular Unicamp 2025 não especifica o peso das provas específicas. No entanto, é mencionado que a nota padronizada NF2 é calculada com base na média ponderada das provas de Língua Portuguesa e Literaturas de Língua Portuguesa, Matemática, Interdisciplinar, Provas de Conhecimentos Específicos (2 provas de acordo com a área do curso escolhido) e Habilidades Específicas. Além disso, é mencionado que a Nota Mínima de Opção (NMO) é atribuída a cada prova prioritária, que são consideradas no VU 2025.
+
+Para saber os pesos exatos de cada prova, é necessário consultar o Anexo III da Resolução Vestibular Unicamp 2025, que contém a tabela de pesos para cada curso.",As provas específicas têm peso 3 para os cursos que exigem essas disciplinas.,0.4682745337486267
+Qual o peso da prova de Ciências Humanas no Vestibular Unicamp 2025?,"A Resolução Vestibular Unicamp 2025 não especifica explicitamente o peso da prova de Ciências Humanas. No entanto, é possível encontrar a informação ao analisar a estrutura de cálculo da nota final do(a) candidato(a) e de sua classificação, descrita no Art. 25 da Resolução.
+
+A estrutura de cálculo da nota final é apresentada como segue:
+
+Área: Ciências Humanas/Artes, Curso: Curso Treineiros Ciências Exatas/Tecnológicas*, Prioritárias: -, NMO: -, Pesos 3: LPL, Pesos 2: -, Pesos 1: MAT; FIS; QUI; HIST; GEO; BIO; INTER
+
+Nesse contexto, é possível identificar que a prova de História (HIST) é incluída entre os pesos 1, juntamente com as provas de Matemática (MAT), Física (FIS), Química (QUI), Geografia (GEO) e Biologia (BIO), e Língua Portuguesa e Literaturas de Língua Portuguesa (LPL).
+
+Portanto, podemos concluir que a prova de Ciências Humanas (ou História, no contexto específico do Vestibular Unicamp 2025) tem um peso de 1, junto com as outras disciplinas mencionadas, no cálculo da nota final do(a) candidato(a).",A prova de Ciências Humanas tem peso 1.,0.5162376761436462
+Qual o peso da prova de Matemática no Vestibular Unicamp 2025?,"A Resolução GR-029/2024, de 10/07/2024, não especifica o peso da prova de Matemática no Vestibular Unicamp 2025. No entanto, é possível consultar o Anexo III da Resolução, que lista os pesos das provas para cada curso.",A prova de Matemática tem peso 2.,0.5063897371292114
+Qual é o peso da prova de Ciências Naturais no Vestibular Unicamp 2025?,"Baseado no texto, não é possível encontrar a informação específica sobre o peso da prova de Ciências Naturais no Vestibular Unicamp 2025. No entanto, é possível encontrar informações sobre a estrutura das provas e os pesos das diferentes disciplinas.
+
+Para os cursos de Ciências Biológicas/Saúde, a prova de Biologia tem 8 questões e a prova de Química tem 6 questões. Para os cursos de Ciências Exatas/Tecnológicas, a prova de Física tem 6 questões e a prova de Química tem 6 questões. Para os cursos de Ciências Humanas/Artes, a prova de Geografia tem 6 questões, a prova de História tem 6 questões, a prova de Filosofia tem 1 questão e a prova de Sociologia tem 1 questão.
+
+No entanto, não há informações sobre o peso específico da prova de Ciências Naturais. É possível que a prova de Ciências Naturais seja uma combinação das provas de Biologia e Química, ou que seja uma disciplina separada. Sem mais informações, não é possível determinar o peso da prova de Ciências Naturais no Vestibular Unicamp 2025.",A prova de Ciências Naturais tem peso 2.,0.6020447611808777
