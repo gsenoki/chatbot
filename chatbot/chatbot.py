@@ -11,7 +11,7 @@ from sentence_transformers import SentenceTransformer, util
 
 
 # gets the api key of groq
-os.environ["GROQ_API_KEY"] = getpass.getpass()
+api_key = os.getenv("GROQ_API_KEY")
 
 # read the text file normas unicamp
 with open("normas_unicamp_noLines.txt", "r", encoding="utf-8") as file:
