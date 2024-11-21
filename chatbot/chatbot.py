@@ -15,11 +15,8 @@ from sentence_transformers import SentenceTransformer, util
 os.environ["GROQ_API_KEY"] = getpass.getpass()
 
 # read the text file normas unicamp
-url = 'https://drive.google.com/file/d/1LxIK5YBypuW3qKyrIYae2oXg6XV4Jd4O/view?usp=sharing'
-response = requests.get(url)
-content = response.text
-#with open("normas_unicamp_noLines.txt", "r", encoding="utf-8") as file:
-#    content = file.read()
+with open("normas_unicamp_noLines.txt", "r", encoding="utf-8") as file:
+    content = file.read()
 
 # slits the text into chunks
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=3000, chunk_overlap=200)
