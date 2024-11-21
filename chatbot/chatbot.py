@@ -12,7 +12,7 @@ from sentence_transformers import SentenceTransformer, util
 
 
 # gets the api key of groq
-os.environ["GROQ_API_KEY"] = getpass.getpass()
+os.environ["GROQ_API_KEY"] = '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'
 
 # read the text file normas unicamp
 url = 'https://drive.google.com/file/d/1LxIK5YBypuW3qKyrIYae2oXg6XV4Jd4O/view?usp=sharing'
